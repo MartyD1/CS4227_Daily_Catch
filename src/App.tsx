@@ -4,7 +4,7 @@ import Profile from "./pages/Profile";
 import Settings from "./pages/Settings";
 import Layout from "./components/Layout";
 
-const basePath = process.env.NODE_ENV === "production" ? "/CS4227_Daily_Catch" : "";
+const basePath = import.meta.env.MODE === "production" ? "/CS4227_Daily_Catch" : "";
 
 const App: React.FC = () => {
     return (

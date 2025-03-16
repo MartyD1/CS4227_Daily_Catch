@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import userData from "../data/user.json"; // Simulated database
+import users from "../data/user.json";
 
 const Settings: React.FC = () => {
-    const [user, setUser] = useState(userData);
+    const [user, setUser] = useState(users[0]);
     const [name, setName] = useState(user.name);
     const [bio, setBio] = useState(user.bio);
 
