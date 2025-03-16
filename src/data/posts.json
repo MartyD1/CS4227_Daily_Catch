@@ -1,14 +1,23 @@
 [
   {
     "id": 1,
+    "userId": 1,
     "content": "Caught a big yoke today",
     "timestamp": "2025-03-12T10:00:00Z",
     "image": "https://res.cloudinary.com/dccfwhsem/image/upload/v1741788411/flpvp3be0pdwo2vspovj.jpg"
   },
   {
     "id": 2,
+    "userId": 1,
     "content": "Some day for fishing.",
     "timestamp": "2025-03-12T14:30:00Z",
     "image": "https://res.cloudinary.com/dccfwhsem/image/upload/v1741788411/svtxlpjfcp2uws07ebcy.jpg"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "content": "Great fishing spot today!",
+    "timestamp": "2025-03-14T09:00:00Z",
+    "image": "https://res.cloudinary.com/dccfwhsem/image/upload/v1742136800/xYuZeCp-1992690278_stpj8p.jpg"
   }
 ]

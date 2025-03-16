@@ -1,6 +1,16 @@
-{
-  "name": "Johnny Joyce",
-  "bio": "Love fishing.",
-  "profilePic": "https://res.cloudinary.com/dccfwhsem/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1741695594/gwtcl1xm24bmz9t9hpe8.jpg",
-  "anglerLevel": 2
-}
+[
+  {
+    "id": 1,
+    "name": "Johnny Joyce",
+    "bio": "Love fishing.",
+    "profilePic": "https://res.cloudinary.com/dccfwhsem/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1741695594/gwtcl1xm24bmz9t9hpe8.jpg",
+    "anglerLevel": 2
+  },
+  {
+    "id": 2,
+    "name": "Brendan",
+    "bio": "Fishing is love. Fishing is life.",
+    "profilePic": "https://res.cloudinary.com/dccfwhsem/image/upload/v1742136713/breny_aat5s3.png",
+    "anglerLevel": 3
+  }
+]

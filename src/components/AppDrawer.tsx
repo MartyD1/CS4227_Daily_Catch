@@ -17,7 +17,7 @@ const AppDrawer: React.FC = () => {
                     <ListItem onClick={() => setDrawerOpen(false)} sx={{ cursor: "pointer" }}>
                         <ListItemText primary="Close" />
                     </ListItem>
-                    <ListItem component={Link} to="/profile" onClick={() => setDrawerOpen(false)} sx={{ cursor: "pointer" }}>
+                    <ListItem component={Link} to="/profile/1" onClick={() => setDrawerOpen(false)} sx={{ cursor: "pointer" }}>
                         <ListItemText primary="Profile" />
                     </ListItem>
                     <ListItem component={Link} to="/settings" onClick={() => setDrawerOpen(false)} sx={{ cursor: "pointer" }}>
